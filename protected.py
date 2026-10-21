@@ -70,3 +70,4 @@ a.Setter("Blue", "Deccan")
 print(a.Getter())
 a.Deleter()
 print(a.Getter())'''
+
