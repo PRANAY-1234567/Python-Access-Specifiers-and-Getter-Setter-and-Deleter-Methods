@@ -1,4 +1,4 @@
-'''class Operaton:
+'''class Operator:
     _name = "ABC"
     def _Demo(self):
         print(f'Student Nmae is {self._name}')
