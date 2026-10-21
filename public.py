@@ -19,3 +19,4 @@ class Student:
 s=Student("XYZ", 5000)
 print(s.name)
 print(s.fee)'''
+
