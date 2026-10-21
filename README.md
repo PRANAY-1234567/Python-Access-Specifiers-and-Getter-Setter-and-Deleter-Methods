@@ -111,9 +111,7 @@ XYZ
 ## 3. Protected Access Specifier
 
 In Python, an attribute or method beginning with a single underscore (`_`) is conventionally treated as protected.
-
 It indicates that the member is intended for internal use within the class and its subclasses.
-
 However, Python does not strictly prevent access to these members from outside the class.
 
 ### Example
