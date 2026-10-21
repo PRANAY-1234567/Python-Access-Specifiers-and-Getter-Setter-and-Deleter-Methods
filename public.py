@@ -7,7 +7,8 @@ class Student :
 
 s= Student()
 print(s.fee)
-s.data'''
+s.data
+'''
 
 '''
 class Student:
